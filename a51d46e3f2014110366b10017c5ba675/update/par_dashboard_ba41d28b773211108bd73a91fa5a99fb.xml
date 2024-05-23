@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid>48</grid>
+        <name>User metrics</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-01 03:03:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>ba41d28b773211108bd73a91fa5a99fb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User metrics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Security Center" source="sn_vsc">a51d46e3f2014110366b10017c5ba675</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Security Center">a51d46e3f2014110366b10017c5ba675</sys_scope>
+        <sys_update_name>par_dashboard_ba41d28b773211108bd73a91fa5a99fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 06:23:24</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Security Center">a51d46e3f2014110366b10017c5ba675</claim_owner_scope>
+        <claim_timestamp>18fa5fb930b0000001</claim_timestamp>
+        <metadata_update_name>par_dashboard_ba41d28b773211108bd73a91fa5a99fb</metadata_update_name>
+        <previous_claim_app_version>1.4.0</previous_claim_app_version>
+        <previous_claim_name>Security Center</previous_claim_name>
+        <previous_claim_scope>a51d46e3f2014110366b10017c5ba675</previous_claim_scope>
+        <sys_created_by>akolluru@equinix.com</sys_created_by>
+        <sys_created_on>2024-05-23 15:04:38</sys_created_on>
+        <sys_id>fef68fde47164250772eaaa5536d4384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akolluru@equinix.com</sys_updated_by>
+        <sys_updated_on>2024-05-23 15:04:38</sys_updated_on>
+    </sys_claim>
+</record_update>
